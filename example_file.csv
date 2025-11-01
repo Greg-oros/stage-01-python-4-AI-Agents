@@ -1,0 +1,11 @@
+ID,Name,Age,City,Occupation,Salary,Email,Join_Date
+1,John Doe,28,New York,Engineer,75000,john.doe@example.com,2023-05-15
+2,Jane Smith,34,Los Angeles,Designer,65000,jane.smith@example.com,2022-11-20
+3,Alice Johnson,29,Chicago,Teacher,55000,alice.johnson@example.com,2023-03-10
+4,Bob Brown,45,Houston,Manager,90000,bob.brown@example.com,2021-08-01
+5,Charlie Davis,31,Phoenix,Developer,80000,charlie.davis@example.com,2023-07-25
+6,Eva Wilson,26,Austin,Nurse,60000,eva.wilson@example.com,2023-01-12
+7,Fred Miller,50,Sacramento,Consultant,95000,fred.miller@example.com,2022-06-18
+8,Gina Taylor,33,Miami,Analyst,70000,gina.taylor@example.com,2023-09-05
+9,Harry Moore,40,Dallas,Lawyer,110000,harry.moore@example.com,2021-12-30
+10,Ivy Anderson,27,Raleigh,Dentist,85000,ivy.anderson@example.com,2023-02-14
