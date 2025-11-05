@@ -15,6 +15,25 @@ Mini Projects Included
 | CSV Salary Sum | Read a CSV file and sum a numeric column | `src/sum_csv_salary.py` |
 
 ---
+Parse and Time → Fetch 1 website and print response time
+File: parse_and_time.py
+
+This script performs a simple performance measurement of an HTTP request and processes data returned from the Wikipedia API.
+
+What it does:
+- Fetches the *"Climate change"* article using the MediaWiki API
+- Prints the HTTP response time (how long the request took)
+- Extracts readable text from HTML using **BeautifulSoup**
+- Saves the article content into:
+  - `Climate_change.txt` (plain text format)
+  - `Climate_change.json` (structured JSON format)
+
+Key concepts practiced:
+- Making HTTP GET requests (`requests`)
+- Handling API query parameters
+- Response time measurement (`response.elapsed.total_seconds()`)
+- Parsing HTML (`BeautifulSoup`)
+- File saving (TXT + JSON)
 
 Skills Learned
 - Python syntax & control flow
