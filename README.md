@@ -44,8 +44,34 @@ Skills Learned
 
 ---
 
-How to Run
+
+This project contains a series of Python exercises that gradually build up to creating a simple "chat bot" using object-oriented programming concepts.
+
+Learning Goals
+- Understand classes and objects in Python  
+- Use the `__init__()` constructor to create object attributes  
+- Write and call methods (like `speak()` and `run()`)  
+- Build a simple interactive bot capable of responding to user input
+
+---
+
+Exercises Overview
+
+| Exercise | Focus | Description |
+|-----------|--------|-------------|
+| 1 | Class structure | Create your first class and object |
+| 2 | Constructors | Learn how to use `__init__` and attributes like `name` |
+| 3 | Methods | Add a `speak()` and `introduce()` method |
+| 4 | Method arguments | Pass messages dynamically into methods |
+| 5 | Bot project | Combine all skills to create a conversational bot |
+
+---
+
+ Running the Bot
+
+Run the bot from your terminal:
 ```bash
-git clone https://https://github.com/Greg-oros/stage-01-python-4-AI-Agents/
-cd stage-01-python-4-AI-Agents
-python src/prime_checker.py
+python bot_and_exercises.py
+
+
+
